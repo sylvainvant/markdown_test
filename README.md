@@ -1,4 +1,5 @@
-![markdown](images/icon.png)		
+![markdown](images/icon.jpg)  
+
 #Markdown structure		
 
 
