@@ -1,6 +1,6 @@
-#![markdown](images/icon.png)		
+![markdown](images/icon.png)		
 
 
 # markdown_test
 
-un test site php avec du markdown
+un test de site php avec un texte en markdown
