@@ -1,4 +1,4 @@
-![markdown](images/icon.png)		
+![markdown](images/icon.jpg)		
 
 
 # markdown_test
